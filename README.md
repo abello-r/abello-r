@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alexander Bello</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abello-r&label=Profile%20views&color=0e75b6&style=flat" alt="abello-r" /> </p>
 
-- 📫 How to reach me **alexanderbellor18@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abello-r" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abello-r" height="30" width="40" /></a>
 <a href="https://instagram.com/alexdot2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="alexdot2" height="30" width="40" /></a>
 </p>
 
@@ -17,3 +14,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abello-r&show_icons=true&locale=en" alt="abello-r" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abello-r&" alt="abello-r" /></p>
+
