@@ -36,5 +36,5 @@
 
 <h3 align="center">Projects:</h3>
 <p align="center">
-  Here are some of my notable projects. For more details, please visit my [Notion Portfolio](https://www.notion.so/Projects-Container-42-bbdb87846ab047e58aeae374d23f62d8).
+  Here are some of my notable projects. For more details, please visit my Notion Portfolio. (https://www.notion.so/Projects-Container-42-bbdb87846ab047e58aeae374d23f62d8).
 </p>
