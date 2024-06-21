@@ -23,7 +23,7 @@ As a software developer, my specialty lies in building (and occasionally designi
 <img src="https://img.shields.io/badge/Code-63b8fe?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-<p>The portfolio ensures robust protection of confidential data through advanced cryptographic methods, guaranteeing secure access and management of sensitive content. By employing a secure and dynamic code mechanism similar to OTP, it enhances privacy and confidentiality, making it a reliable solution for managing and safeguarding sensitive information.</p>
+<p>The portfolio ensures robust protection of confidential data through cryptographic methods, guaranteeing secure access and management of sensitive content.</p>
 </div>
                                                                                       
 </td>
