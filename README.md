@@ -31,7 +31,7 @@ As a software developer, my specialty lies in building (and occasionally designi
                <br>
 <h3 align="center">Book Tracker</h3>
 <div align="center">                                       
-<a href="Lorem ipsum" target="_blank"><img src="Lorem ipsum"></a>
+<a href="Lorem ipsum" target="_blank"><img src="https://github.com/abello-r/abello-r/blob/main/book-tracker.gif?raw=true"></a>
 <br>
 <p>
 <a href="Lorem ipsum" target="_blank">
