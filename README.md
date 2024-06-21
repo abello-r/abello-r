@@ -14,10 +14,11 @@ As a software developer, my specialty lies in building (and occasionally designi
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Profile Guard</h3>
+<h3 align="center">Profile Guard [Portfolio]</h3>
 <div align="center">
 <a href="" target="_blank"><img src="https://github.com/abello-r/abello-r/blob/main/profile-guard.gif?raw=true"></a>
 <p>
+<br>
 <a href="Lorem ipsum" target="_blank">
 <img src="https://img.shields.io/badge/Code-63b8fe?style=for-the-badge&logo=github&logoColor=white">
 </a>
@@ -34,6 +35,7 @@ As a software developer, my specialty lies in building (and occasionally designi
 <a href="Lorem ipsum" target="_blank"><img src="https://github.com/abello-r/abello-r/blob/main/book-tracker.gif?raw=true"></a>
 <br>
 <p>
+<br>
 <a href="Lorem ipsum" target="_blank">
 <img src="https://img.shields.io/badge/Code-63b8fe?style=for-the-badge&logo=github&logoColor=white">
 </a>
