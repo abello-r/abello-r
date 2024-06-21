@@ -24,7 +24,7 @@ As a software developer, my specialty lies in building (and occasionally designi
 <a href="Lorem ipsum" target="_blank"><img src="Lorem ipsum"></a>
 <p>
 <a href="Lorem ipsum" target="_blank">
-<img src="https://img.shields.io/badge/Code-63b8fe?style=for-the-badge&logo=github&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/Code-63b8fe?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 <p>Lorem ipsum</p>
@@ -40,7 +40,7 @@ As a software developer, my specialty lies in building (and occasionally designi
 <br>
 <p>
 <a href="Lorem ipsum" target="_blank">
-<img src="https://img.shields.io/badge/Code-63b8fe?style=for-the-badge&logo=github&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/Code-63b8fe?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 </p>Lorem ipsum</p>
@@ -71,7 +71,7 @@ As a software developer, my specialty lies in building (and occasionally designi
 <a href="Lorem ipsum" target="_blank"><img src="Lorem ipsum width="400"></a>
 <p>
 <a href="Lorem ipsum" target="_blank">
-<img src="https://img.shields.io/badge/Code-63b8fe?style=for-the-badge&logo=github&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/Code-63b8fe?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 <p>Lorem ipsum</p>
