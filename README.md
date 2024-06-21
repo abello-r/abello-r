@@ -39,7 +39,7 @@ As a software developer, my specialty lies in building (and occasionally designi
 <img src="https://img.shields.io/badge/Code-63b8fe?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-</p>Lorem ipsum</p>
+</p>Tracks your read and pending books, offering personalized recommendations. It includes a virtual library with advanced features for easy book management and exploration.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
