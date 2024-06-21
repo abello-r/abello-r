@@ -42,36 +42,7 @@ As a software developer, my specialty lies in building (and occasionally designi
 </div>                                                             
 </table>                                                                                 
 </div>
-<br>
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Counterfeit Detector Camera</h3>
-<div align="center">
-<a href="Lorem ipsum" target="_blank"><img src="Lorem ipsum"></a>
-<p>
-<a href="Lorem ipsum" target="_blank">
-<img src="https://img.shields.io/badge/Code-63b8fe?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</p>
-<p>Lorem ipsum</p>
-</div>
-                                                                                      
-</td>       
-
-<td width="50%">
-<h3 align="center">Minishell (Bash replica)</h3>
-<div align="center">
-<a href="Lorem ipsum" target="_blank"><img src="Lorem ipsum width="400"></a>
-<p>
-<a href="Lorem ipsum" target="_blank">
-<img src="https://img.shields.io/badge/Code-63b8fe?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</p>
-<p>Lorem ipsum</p>
-</div>
-                                                                        
+<br>                                                                    
 </td>  
 </table>                                                                                 
 </div>
