@@ -71,7 +71,7 @@ As a software developer, my specialty lies in building (and occasionally designi
 <a href="Lorem ipsum" target="_blank"><img src="Lorem ipsum width="400"></a>
 <p>
 <a href="Lorem ipsum" target="_blank">
-<img border-radius="10px" src="https://img.shields.io/badge/Code-63b8fe?style=for-the-badge&logo=github&logoColor=white">
+<img borderRadius="6px" src="https://img.shields.io/badge/Code-63b8fe?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
 <p>Lorem ipsum</p>
