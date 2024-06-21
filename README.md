@@ -8,3 +8,4 @@
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Avenir&weight=600&size=30&duration=2000&pause=1000&center=true&vCenter=true&random=false&width=450&height=60&lines=I+create+digital+solutions;Automate+tasks+efficiently;Develop+AI-driven+bots;Created+AI-powered+applications" alt="Typing SVG" /></a>
+</p>
