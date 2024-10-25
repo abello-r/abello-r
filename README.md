@@ -39,7 +39,7 @@ As a software developer, my specialty lies in building (and occasionally designi
 <img src="https://img.shields.io/badge/Visit-63b8fe?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-</p>The educational Jira clone includes project management essentials with data tables, charts, translations, user authentication, and API security, built for educational purposes.</p>
+</p>The Jira clone includes project management essentials with data tables, charts, translations, user authentication, and API security, built for educational purposes.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
