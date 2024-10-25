@@ -29,13 +29,13 @@ As a software developer, my specialty lies in building (and occasionally designi
 </td>
 
 <td width="50%">
-<h3 align="center">Book Tracker</h3>
+<h3 align="center">N0t Jira</h3>
 <div align="center">                                       
-<a href="https://booktrack3r.netlify.app" target="_blank"><img src="https://github.com/abello-r/abello-r/blob/main/book-tracker.gif?raw=true"></a>
+<a href="https://n0tjira.netlify.app" target="_blank"><img src="https://github.com/abello-r/abello-r/blob/main/n0tJira.gif?raw=true"></a>
 <br>
 <p>
 <br>
-<a href="https://booktrack3r.netlify.app" target="_blank">
+<a href="https://n0tjira.netlify.app" target="_blank">
 <img src="https://img.shields.io/badge/Visit-63b8fe?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
