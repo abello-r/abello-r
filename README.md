@@ -19,8 +19,8 @@ As a software developer, my specialty lies in building (and occasionally designi
 <a href="https://profile-guard.netlify.app" target="_blank"><img src="https://github.com/abello-r/abello-r/blob/main/profile-guard.gif?raw=true"></a>
 <p>
 <br>
-<a href="https://github.com/abello-r/ProfileGuard" target="_blank">
-<img src="https://img.shields.io/badge/Code-63b8fe?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://profile-guard.netlify.app" target="_blank">
+<img src="https://img.shields.io/badge/Visit-63b8fe?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
 <p>The portfolio ensures robust protection of confidential data through cryptographic methods, guaranteeing secure access and management of sensitive content.</p>
@@ -31,12 +31,12 @@ As a software developer, my specialty lies in building (and occasionally designi
 <td width="50%">
 <h3 align="center">Book Tracker</h3>
 <div align="center">                                       
-<a href="https://github.com/abello-r/BookTracker" target="_blank"><img src="https://github.com/abello-r/abello-r/blob/main/book-tracker.gif?raw=true"></a>
+<a href="https://booktrack3r.netlify.app" target="_blank"><img src="https://github.com/abello-r/abello-r/blob/main/book-tracker.gif?raw=true"></a>
 <br>
 <p>
 <br>
-<a href="https://github.com/abello-r/BookTracker" target="_blank">
-<img src="https://img.shields.io/badge/Code-63b8fe?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://booktrack3r.netlify.app" target="_blank">
+<img src="https://img.shields.io/badge/Visit-63b8fe?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
 </p>Tracks your read and pending books, offering personalized recommendations. It includes a virtual library with advanced features for easy book management and exploration.</p>
