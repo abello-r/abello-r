@@ -16,7 +16,7 @@ As a software developer, my specialty lies in building (and occasionally designi
 <td width="50%">
 <h3 align="center">Profile Guard [Portfolio]</h3>
 <div align="center">
-<a href="https://github.com/abello-r/ProfileGuard" target="_blank"><img src="https://github.com/abello-r/abello-r/blob/main/profile-guard.gif?raw=true"></a>
+<a href="https://profile-guard.netlify.app" target="_blank"><img src="https://github.com/abello-r/abello-r/blob/main/profile-guard.gif?raw=true"></a>
 <p>
 <br>
 <a href="https://github.com/abello-r/ProfileGuard" target="_blank">
