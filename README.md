@@ -29,7 +29,7 @@ As a software developer, my specialty lies in building (and occasionally designi
 </td>
 
 <td width="50%">
-<h3 align="center">N0t Jira</h3>
+<h3 align="center">NotJira</h3>
 <div align="center">                                       
 <a href="https://n0tjira.netlify.app" target="_blank"><img src="https://github.com/abello-r/abello-r/blob/main/n0tJira.gif?raw=true"></a>
 <br>
@@ -39,7 +39,7 @@ As a software developer, my specialty lies in building (and occasionally designi
 <img src="https://img.shields.io/badge/Visit-63b8fe?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-</p>Tracks your read and pending books, offering personalized recommendations. It includes a virtual library with advanced features for easy book management and exploration.</p>
+</p>The educational Jira clone includes project management essentials with data tables, charts, translations, user authentication, and API security, built for educational purposes.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
