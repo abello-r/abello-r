@@ -8,7 +8,7 @@
 
 ## <picture><img src = "https://img.icons8.com/?size=100&id=25884&format=png&color=36BCF7FF" width = 25px></picture> **About me** 
 
-Software developer with 4 years of professional experience building products that solve real problems. I love hackathons, experimenting with AI, and creating things from scratch—whether it's code or LEGO. Trained at 42 Madrid, where I learned to break down complex challenges into manageable pieces.
+Software developer with 4 years of professional experience building products that solve real problems. I love hackathons, experimenting with AI, and creating things from scratch whether it's code or LEGO. Trained at 42 Madrid, where I learned to break down complex challenges into manageable pieces.
 
 ## <picture><img src = "https://private-user-images.githubusercontent.com/59649385/533371210-58d171f2-bce8-4992-abd0-ffff802ad24b.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njc4ODAwMTIsIm5iZiI6MTc2Nzg3OTcxMiwicGF0aCI6Ii81OTY0OTM4NS81MzMzNzEyMTAtNThkMTcxZjItYmNlOC00OTkyLWFiZDAtZmZmZjgwMmFkMjRiLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTA4VDEzNDE1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWUyMzM4OTgzZjFhNTA2NzM2NmUwMzkxMGIyOWMwMzBiNzVhNGU0YWQyMzQ1YTgzYmEwMzYxYjhmNGFkYzAyNDkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.CeLXQSeSO8ftuGRsx58MAE2CTJ2S1oVcxlD3sTVvDMU" width = 25px></picture> **Main projects** 
 
