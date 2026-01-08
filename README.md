@@ -51,5 +51,8 @@ Software developer with 4 years of professional experience building products tha
 
 ###
 
-## Tech Stack
+## <picture><img src = "" width = 25px></picture> **Tech Stack**
+
 I've dabbled in lots of tech, but here's my core stack. Because why use boring diagrams when you have LEGO?
+
+<picture><img src = "https://private-user-images.githubusercontent.com/59649385/533383802-8b87e15e-9551-47ba-a127-4db72c45af4f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njc4ODE2NzksIm5iZiI6MTc2Nzg4MTM3OSwicGF0aCI6Ii81OTY0OTM4NS81MzMzODM4MDItOGI4N2UxNWUtOTU1MS00N2JhLWExMjctNGRiNzJjNDVhZjRmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTA4VDE0MDkzOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTVlZWIxMGFhZDZlZDdhMGU3MzgzMmVjY2FiZjIxNTY2ODlkODNhNjExMDkzZjRjMjYzMGQ4OGFmOTRmZDUxY2UmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.bDyNaz7qUordKPyblwCXaq7HN2sI8LlMVX2u5t-Ghzk" width = 550px></picture>
