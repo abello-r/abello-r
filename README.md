@@ -10,7 +10,7 @@
 
 As a software developer, my specialty lies in building (and occasionally designing) exceptional digital experiences. My skills were honed at 42 Madrid, where I studied and developed a passion for automating processes and creating innovative applications, ranging from low-level libraries to AI-powered bots.
 
-## <picture><img src = "https://img.icons8.com/?size=100&id=KQzBrQc9E2vw&format=png&color=75254253" width = 25px></picture> **Main projects:** 
+## <picture><img src = "https://private-user-images.githubusercontent.com/59649385/533371210-58d171f2-bce8-4992-abd0-ffff802ad24b.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njc4ODAwMTIsIm5iZiI6MTc2Nzg3OTcxMiwicGF0aCI6Ii81OTY0OTM4NS81MzMzNzEyMTAtNThkMTcxZjItYmNlOC00OTkyLWFiZDAtZmZmZjgwMmFkMjRiLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTA4VDEzNDE1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWUyMzM4OTgzZjFhNTA2NzM2NmUwMzkxMGIyOWMwMzBiNzVhNGU0YWQyMzQ1YTgzYmEwMzYxYjhmNGFkYzAyNDkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.CeLXQSeSO8ftuGRsx58MAE2CTJ2S1oVcxlD3sTVvDMU" width = 25px></picture> **Main projects:** 
 
 <table>
 <tr>
