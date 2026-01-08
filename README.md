@@ -3,14 +3,15 @@
 </p>
 
 <p align="center"> 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Avenir&weight=600&size=30&duration=2000&pause=1000&center=true&vCenter=true&random=false&width=450&height=60&lines=I+create+digital+solutions;Automate+tasks+efficiently;Develop+AI-driven+bots;Created+AI-powered+applications" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Avenir&weight=200&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Turning+complex+problems+into+code;Automating+workflows+with+AI;Building+products+that+scale;Passionate+about+clean+architecture" alt="Typing SVG" /></a>
 </p>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me** 
+## <picture><img src = "https://img.icons8.com/?size=100&id=25884&format=png&color=36BCF7FF" width = 25px></picture> **About me** 
 
 As a software developer, my specialty lies in building (and occasionally designing) exceptional digital experiences. My skills were honed at 42 Madrid, where I studied and developed a passion for automating processes and creating innovative applications, ranging from low-level libraries to AI-powered bots.
 
-## Main projects:
+## <picture><img src = "https://img.icons8.com/?size=100&id=KQzBrQc9E2vw&format=png&color=75254253" width = 25px></picture> **Main projects:** 
+
 <table>
 <tr>
 <td width="50%">
