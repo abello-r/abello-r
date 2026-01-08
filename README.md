@@ -50,3 +50,6 @@ Software developer with 4 years of professional experience building products tha
 </div>
 
 ###
+
+## Tech Stack
+I've dabbled in lots of tech, but here's my core stack. Because why use boring diagrams when you have LEGO?
