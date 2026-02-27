@@ -8,7 +8,7 @@
 
 ## <picture><img src = "https://img.icons8.com/?size=100&id=25884&format=png&color=36BCF7FF" width = 25px></picture> **About me** 
 
-Software developer with 4 years of professional experience building products that solve real problems. I love hackathons, experimenting with AI, and creating things from scratch whether it's code or LEGO. Trained at 42 Madrid, where I learned to break down complex challenges into manageable pieces.
+Software developer with 5 years of professional experience building products that solve real problems. I love hackathons, experimenting with AI, and creating things from scratch whether it's code or LEGO. Trained at 42 Madrid, where I learned to break down complex challenges into manageable pieces.
 
 ## <picture><img src = "https://github.com/abello-r/abello-r/blob/main/icons8-legostein-100.png" width = 25px></picture> **Main projects** 
 
