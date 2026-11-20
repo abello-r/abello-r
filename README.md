@@ -26,12 +26,10 @@ Software developer with 5 years of professional experience building products tha
 </p>
 <p>The portfolio ensures robust protection of confidential data through cryptographic methods, guaranteeing secure access and management of sensitive content.</p>
 </div>
-                                                                                      
 </td>
-
 <td width="50%">
 <h3 align="center">NotJira</h3>
-<div align="center">                                       
+<div align="center">
 <a href="https://n0tjira.netlify.app" target="_blank"><img src="https://github.com/abello-r/abello-r/blob/main/n0tJira.gif?raw=true"></a>
 <br>
 <p>
@@ -40,14 +38,11 @@ Software developer with 5 years of professional experience building products tha
 <img src="https://img.shields.io/badge/Visit-63b8fe?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-</p>The Jira clone includes project management essentials with data tables, charts, translations, user authentication, and API security, built for educational purposes.</p>
-</div>                                                             
-</table>                                                                                 
+<p>The Jira clone includes project management essentials with data tables, charts, translations, user authentication, and API security, built for educational purposes.</p>
 </div>
-<br>                                                                    
-</td>  
-</table>                                                                                 
-</div>
+</td>
+</tr>
+</table>
 
 ###
 
